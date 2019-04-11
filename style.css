@@ -1,7 +1,6 @@
 body{
-	background: linear-gradient(to top, #33ccff 0%, #ff99cc 100%);
+  background: white; 
 }
 #more{
 	margin-top: 20%;
 }
-
