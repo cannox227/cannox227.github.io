@@ -1,0 +1,12 @@
+body{
+  background: linear-gradient(to right, #667db6, #0082c8, #0082c8, #667db6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+a{
+	color:white;
+}
+a:hover{
+	color:#1a2a6c;
+}
+#nav{
+	background-color: #696969;
+}
