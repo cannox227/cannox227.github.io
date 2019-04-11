@@ -8,6 +8,30 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 	<meta charset = "utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+.loader {
+  border: 16px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 16px solid #3498db;
+  width: 120px;
+  height: 120px;
+  -webkit-animation: spin 2s linear infinite; /* Safari */
+  animation: spin 2s linear infinite;
+}
+
+/* Safari */
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+</style>
+
 </head>
 <body>
 	<nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark  scrolling-navbar">
@@ -38,11 +62,14 @@
 
 	<br><br><br><br><br><br>
 	<div class="container">
-	<h1 class="text-center">Link utili</h1>
+	<h1 class="text-center">Work in progress</h1><br>
 	
 		<div class="row justify-content-center" id="more">
-			<div class="post"></div>
-		</div> 				
-	</div>
+      <div class="loader"></div>  
+    </div>
+
+  
+
+
 </body>
 </html>
