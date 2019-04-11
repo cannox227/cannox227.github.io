@@ -1,0 +1,15 @@
+{
+   "postit": [
+       {
+           "name": "post1",
+           "desc": "postit number 1 sorry modafucka",
+           "todo": "high",
+       },
+       {
+           "name": "post2",
+           "desc": "postit number 2 sorry modafakkkka",
+           "todo": "low",
+       }
+   ]
+}
+
