@@ -4,23 +4,22 @@ title: About
 permalink: /about/
 ---
 
-If you have found this page cool, maybe you're into open source development or just a curious recruiter, anyway, you're welcome!
-
-My name is Tommaso Canova, people know me also as __cannox__, my friends sometimes describe me as a funny dwarf, I don't know if they are right or not, in case we meet you may will discover it by yourself (just kidding, I'm not funny at all).
+Hi! <br>
+My name is Tommaso Canova, people know me also as __cannox__, my friends sometimes describe me as a *funny dwarf*, I don't know if they are right or not, in case we meet you may will discover it by yourself (*just kidding, I'm not funny at all*).
 
 ## 🤓 Something about me
 
-- 🎓 I'm attending the MSc in Artificial Intelligence at University of Trento
+&emsp;🎓 &ensp;I'm attending the MSc in Artificial Intelligence at University of Trento
 
-- 🎓 On septembrer 2022 I've graduated in Computer and Electronic Engineering at University of Trento, with a grade of 110/110 cum laude
+&emsp;🎓 &ensp; On Septembrer 2022 I've graduated in Computer and Electronic Engineering at University of Trento, with a grade of 110/110 cum laude:
 
-- 💻 I'm an Embedded Software Engineer at [E-Agle Trento Racing Team](https://github.com/eagletrt/), the [Formula SAE](https://en.wikipedia.org/wiki/Formula_SAE) team of UNITN
+&emsp;💻 &ensp; I'm the Team Leader of [E-Agle Trento Racing Team](https://github.com/eagletrt/), the [Formula SAE](https://en.wikipedia.org/wiki/Formula_SAE) team of [UniTN](https://www.unitn.it/), I'm also an Embedded Software Engineer in charge of the Low Voltage Accumulator Battery Management System (*BMS*)
 
-- 🤖 I'm interested both in Embedded Systems - and Electronics in general - and in Artificial Intelligence
+&emsp;🤖 &ensp; I'm interested both in Artificial Intelligence and Embedded Systems, the last one pushed me to learn a lot of Electronics during my Bachelor 
 
-- 🏉 I'm very keen on tech and electronics and I've been a rugby player until my 22 y.o.
+&emsp;🏉  &ensp;I'm very keen on **tech** and **electronics** and I've been a **rugby** player until my 22 y.o.
 
-- ✅ I'm a big fan of bullet lists
+&emsp;✅  &ensp;I'm a big fan of bullet lists
 
 ## 👀 Something I'm using or I've used to do stuffs
 - C/C++
