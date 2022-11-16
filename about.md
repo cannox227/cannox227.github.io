@@ -11,7 +11,7 @@ My name is Tommaso Canova, people know me also as __cannox__, my friends sometim
 
 &emsp;🎓 &ensp;I'm attending the MSc in Artificial Intelligence at University of Trento
 
-&emsp;🎓 &ensp; On Septembrer 2022 I've graduated in Computer and Electronic Engineering at University of Trento, with a grade of 110/110 cum laude:
+&emsp;🎓 &ensp; On Septembrer 2022 I've graduated in Computer and Electronic Engineering at University of Trento, with a grade of 110/110 cum laude
 
 &emsp;💻 &ensp; I'm the Team Leader of [E-Agle Trento Racing Team](https://github.com/eagletrt/), the [Formula SAE](https://en.wikipedia.org/wiki/Formula_SAE) team of [UniTN](https://www.unitn.it/), I'm also an Embedded Software Engineer in charge of the Low Voltage Accumulator Battery Management System (*BMS*)
 
