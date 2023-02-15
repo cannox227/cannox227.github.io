@@ -29,7 +29,7 @@ My name is Tommaso Canova, people know me also as __cannox__, my friends sometim
 
 ## 🏭 Latest projects
 
-- [Fenice BMS LV](https://github.com/cannox227/fenice-bms-lv) (currently not visible due to NDA)
+- [Fenice BMS LV](https://github.com/cannox227/fenice-bms-lv)
 - [Step Motor Testbench](https://github.com/cannox227/Step-Motor-Test-Bench)
 - [Solar Azimuth and eLevation Motorized lOcator](https://github.com/cannox227/Solar-Azimuth-and-eLevation-Motorized-lOcator)
 - [Position and Temperature Controller](https://github.com/cannox227/Position-and-Temperature-Controller)
