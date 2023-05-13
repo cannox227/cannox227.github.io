@@ -1,4 +1,4 @@
-baseURL: "/" #http://example.org/
+baseURL: "https://cannox227.github.io/" #http://example.org/
 title: Cannox's space 
 languageCode: en-us
 theme: "PaperMod"
