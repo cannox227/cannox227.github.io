@@ -77,6 +77,13 @@ pre.highlight {
   padding: 1rem;
 }
 
+code{
+  background-color: #30363D;
+  color: white;
+  padding: 0.2em;
+  border-radius: 0.2em;
+}
+
 .dark-avatar {
   display: none !important;
 }
@@ -109,4 +116,5 @@ pre.highlight {
   .dark-avatar {
     display: inline-block !important;
   }
+
 }
