@@ -1,8 +1,0 @@
-- name: Home
-  link: /
-- name: About
-  link: /about/
-- name: CV
-  link: ../cv/Canova_Tommaso_CV.pdf
-    # - name: Portfolio
-#   link: /portfolio/
