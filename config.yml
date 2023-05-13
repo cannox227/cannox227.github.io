@@ -104,13 +104,7 @@ params:
     URL: "https://github.com/<path_to_repo>/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
-
-  # for search
-  outputs:
-    home:
-      - HTML
-      - RSS
-      - JSON # is necessary
+ 
   # https://fusejs.io/api/options.html
   fuseOpts:
     isCaseSensitive: false
@@ -151,3 +145,8 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+outputs:
+    home:
+      - HTML
+      - RSS
+      - JSON # is necessary

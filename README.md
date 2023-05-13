@@ -21,6 +21,3 @@ If you want to update the theme
 `````
 git submodule update --remote --merge
 `````
-
-# Known issues
-Search functionality is currently not working
