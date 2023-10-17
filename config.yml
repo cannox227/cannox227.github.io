@@ -32,7 +32,7 @@ params:
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   ShowWordCount: true
-  ShowRssButtonInSectionTermList: true
+  ShowRssButtonInSectionTermList: false
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
@@ -60,7 +60,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Cannox's space
-    subtitle: "Say something"
+    subtitle: "MSc in Artificial Intelligence @ University of Trento\n\nCurrently studying @Aalto University\n\nFormer Formula Student Member [**@E-Agle TRT**](https://eagletrt.it)"
     imageUrl: /images/propic-rounded.png
     imageWidth: 120
     imageHeight: 120
@@ -78,7 +78,7 @@ params:
 
   socialIcons:
     - name: linkedin
-      url: ""
+      url: "https://www.linkedin.com/in/tommaso-canova/"
     - name: github
       url: "https://github.com/cannox227"
 
@@ -100,10 +100,10 @@ params:
   #   hiddenInList: true # hide on list pages and home
   #   hiddenInSingle: true # hide on single page
 
-  editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+  # editPost:
+  #   URL: "https://github.com/<path_to_repo>/content"
+  #   Text: "Suggest Changes" # edit text
+  #   appendFilePath: true # to append file path to Edit link
  
   # https://fusejs.io/api/options.html
   fuseOpts:
@@ -130,10 +130,10 @@ menu:
       name: About 
       url: about/
       weight: 30
-    # - identifier: cv
-    #   name: CV
-    #   url: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-    #   weight: 40
+    - identifier: cv
+      name: CV
+      url: "assets/cv.pdf"
+      weight: 40
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
