@@ -116,8 +116,8 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - name: Archive
-      url: archives/
+    - name: Posts
+      url: posts/
       weight: 5
     - name: Search
       url: search/
