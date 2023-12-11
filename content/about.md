@@ -37,7 +37,7 @@ On this website I try to store my projects and thoughts.
 🏉 Former **Rugby** Player\
 🤖 Interested in Artificial Intelligence, Embedded Systems, Electronics and Entrepreneurship
 
-## Role I've covered until now
+## Past experiences
 🏎️ **Team Leader** of [E-Agle Trento Racing Team](https://eagletrt.it) (the Formula Student team of the University of Trento) for the season 2022/23\
 💻 **Embedded Software Engineer** at E-Agle TRT, in charge of developing the *Low-Voltage Battery Management System firmware* (more about it [here](https://github.com/cannox227/fenice-bms-lv) and [here](https://wiki.eagletrt.it/fenice-bms-lv/)) season 2021/22 and 2022/23\
 💾 **Computer Technical Specialist Intern** at [App Informatica](https://www.appinformatica.com) in Valencia (Spain)
@@ -49,7 +49,7 @@ On this website I try to store my projects and thoughts.
 🦿 Studying Reinforcement Learning and Complex Networks \
 🧖 Having sauna 
 
-## Things I've done until now
+## Projects
 ⚡️ [Fenice-EVO BMS LV](https://github.com/cannox227/fenice-bms-lv): main project during my Formula Student experience \
 ⚙️ [Step Motor Test Bench](https://github.com/cannox227/Step-Motor-Test-Bench): bachelor's thesis project\
 ☀️ [Solar Azimuth and eLevation Motorized lOcator (SALMO)](https://github.com/cannox227/Solar-Azimuth-and-eLevation-Motorized-lOcator): a custom PCB used for driving a tracking solar panel system, using GPS location and a MPPT (Maximum Power Point Tracking) algorithm to maximise the incident power
