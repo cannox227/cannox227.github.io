@@ -46,15 +46,17 @@ On this website I try to store my projects and thoughts.
 ## Things I'm doing right now
 🥶 Currently [freezing](https://en.ilmatieteenlaitos.fi/local-weather) in Finland \
 📳 Working on a [GAN-based](https://en.wikipedia.org/wiki/Generative_adversarial_network) audio watermarking model for deepfake detection\
+📷 Working on [Camera dewarping](https://github.com/cannox227/camera-dewarping) for top-view court stitching applied to Basketball and Volleyball
 🦿 Studying Reinforcement Learning and Complex Networks \
 🧖 Having sauna 
 
 ## Projects
 ⚡️ [Fenice-EVO BMS LV](https://github.com/cannox227/fenice-bms-lv): main project during my Formula Student experience \
-⚙️ [Step Motor Test Bench](https://github.com/cannox227/Step-Motor-Test-Bench): bachelor's thesis project\
-☀️ [Solar Azimuth and eLevation Motorized lOcator (SALMO)](https://github.com/cannox227/Solar-Azimuth-and-eLevation-Motorized-lOcator): a custom PCB used for driving a tracking solar panel system, using GPS location and a MPPT (Maximum Power Point Tracking) algorithm to maximise the incident power
+⚙️ [Step Motor Test Bench](https://github.com/cannox227/Step-Motor-Test-Bench): Measurement tool to extract maximum power and torque of a step motor (Bachelor's thesis)\
+☀️ [Solar Azimuth and eLevation Motorized lOcator (SALMO)](https://github.com/cannox227/Solar-Azimuth-and-eLevation-Motorized-lOcator): a custom PCB used for driving a tracking solar panel system, using GPS location and a MPPT (Maximum Power Point Tracking) algorithm to maximise the incident power\
+🔊 [HiFi Watermark](https://github.com/cannox227/hifi-gan-watermark/tree/watermark): U-Net based Watermark/Fingerprint embedding and retrievial for HiFi-GAN generated audio
+[Digital Health and Human Behavior project](https://github.com/cannox227/Digital-Health-and-Human-Behavior---Project-Course): Analysis of physical activity patterns using the Fitbit Fitness Tracker Dataset
 
 ## Contact
-Feel free to write me a message on [Linkedin](https://www.linkedin.com/in/tommaso-canova/?originalSubdomain=it)
-
+Feel free to write me a message on [Linkedin](https://www.linkedin.com/in/tommaso-canova/?originalSubdomain=it) or check out my [Github profile](https://github.com/cannox227).
 
