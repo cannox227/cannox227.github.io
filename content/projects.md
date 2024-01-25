@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: "Projects"
 # weight: 1
 # aliases: ["/about"]
 # author : ["Cannox"]
@@ -26,31 +26,6 @@ cover:
     hidden: true # only hide on current single page
 ---
 
-## Hi!
-I'm Tommaso Canova, a MSc student in Artificial Intelligence at University of Trento interested in tech. 
-On this website I try to store my projects and thoughts.
-
-## Me in a bullet list
-🇫🇮 **Erasmus+** student at [Aalto University](https://www.aalto.fi/en) (Finland) \
-🎓 Graduated in Computer and Electronic Engineering at University of Trento, with honours\
-🏎️ Former **Formula Student Member** (more about [here](https://en.wikipedia.org/wiki/Formula_Student))\
-🏉 Former **Rugby** Player\
-🤖 Interested in Artificial Intelligence, Embedded Systems, Electronics and Entrepreneurship
-
-## Past experiences
-🏎️ **Team Leader** of [E-Agle Trento Racing Team](https://eagletrt.it) (the Formula Student team of the University of Trento) for the season 2022/23\
-💻 **Embedded Software Engineer** at E-Agle TRT, in charge of developing the *Low-Voltage Battery Management System firmware* (more about it [here](https://github.com/cannox227/fenice-bms-lv) and [here](https://wiki.eagletrt.it/fenice-bms-lv/)) season 2021/22 and 2022/23\
-💾 **Computer Technical Specialist Intern** at [App Informatica](https://www.appinformatica.com) in Valencia (Spain)
-
-
-## Things I'm doing right now
-🥶 Currently [freezing](https://en.ilmatieteenlaitos.fi/local-weather) in Finland \
-📳 Working on a [GAN-based](https://en.wikipedia.org/wiki/Generative_adversarial_network) audio watermarking model for deepfake detection\
-📷 Working on [Camera dewarping](https://github.com/cannox227/camera-dewarping) for top-view court stitching applied to Basketball and Volleyball
-🦿 Studying Reinforcement Learning and Complex Networks \
-🧖 Having sauna 
-
-## Projects
 ⚡️ [Fenice-EVO BMS LV](https://github.com/cannox227/fenice-bms-lv): main project during my Formula Student experience \
 
 ⚙️ [Step Motor Test Bench](https://github.com/cannox227/Step-Motor-Test-Bench): Measurement tool to extract maximum power and torque of a step motor (Bachelor's thesis)\

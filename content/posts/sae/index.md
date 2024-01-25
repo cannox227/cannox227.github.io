@@ -25,7 +25,11 @@ UseHugoToc: true
 ---
 ## Some thoughts about my experience in Formula Student (still WIP)
 
-*For the moment just some pics*
+On [E-Agle TRT Youtube channel](https://www.youtube.com/@eagletrt) you can find "ALTA TENSIONE", the  docuseries about our project. <br> Here below the first episode (click on the image, don't be shy)👇
+[![Video](https://i3.ytimg.com/vi/fhrwL5X8FOk/maxresdefault.jpg)](https://youtu.be/fhrwL5X8FOk)
+
+## Competition photos
+*At the moment just some pics*
 {{< rawhtml >}}
   <img src="../sae//pics/ata-1.jpg">
   <figcaption>Team on podium for the "Most Friendly Team" Prize - Formula SAE Italy 2023</figcaption>

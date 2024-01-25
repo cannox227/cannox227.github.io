@@ -60,7 +60,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Cannox's space
-    subtitle: "MSc in Artificial Intelligence @ University of Trento\n\nCurrently studying @Aalto University\n\nFormer Formula Student Member [**@E-Agle TRT**](https://eagletrt.it)"
+    subtitle: "MSc in Artificial Intelligence @Aalto University (🇫🇮) and University of Trento (🇮🇹)\n\nFormer Formula Student Member [**@E-Agle TRT**](https://eagletrt.it) 🏎️"
     imageUrl: /images/propic-rounded.png
     imageWidth: 120
     imageHeight: 120
@@ -70,6 +70,8 @@ params:
         url: posts
       - name: Tags
         url: tags
+      - name: Projects
+        url: projects
 
   # home-info mode
   homeInfoParams:
@@ -129,6 +131,10 @@ menu:
     - identifier: about
       name: About 
       url: about/
+      weight: 30
+    - identifier: projects
+      name: Projects
+      url: projects/
       weight: 30
     - identifier: cv
       name: CV
