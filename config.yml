@@ -72,6 +72,8 @@ params:
         url: tags
       - name: Projects
         url: projects
+      - name: CV
+        url: "assets/cv.pdf"
 
   # home-info mode
   homeInfoParams:
@@ -124,10 +126,10 @@ menu:
     - name: Search
       url: search/
       weight: 10
-    - identifier: tags
-      name: Tags
-      url: /tags/
-      weight: 20
+    # - identifier: tags
+    #   name: Tags
+    #   url: /tags/
+    #   weight: 20
     - identifier: about
       name: About 
       url: about/
