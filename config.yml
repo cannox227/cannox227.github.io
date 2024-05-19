@@ -91,15 +91,7 @@ params:
   taxonomies:
           category: categories
           tag: tags
-          series: series
-
-  analytics:
-    google:
-      SiteVerificationTag: "G-02FPKLW2QQ"
-    bing:
-      SiteVerificationTag: "XYZabc"
-    yandex:
-      SiteVerificationTag: "XYZabc"
+          series: series 
 
   # cover:
   #   hidden: true # hide everywhere but not in structured data
