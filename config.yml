@@ -8,7 +8,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 enableEmoji: true
-googleAnalytics: UA-123-45
+googleAnalytics: G-02FPKLW2QQ
 
 minify:
   disableXML: true
@@ -23,7 +23,7 @@ params:
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light
+  defaultTheme: dark #auto, dark, light
   disableThemeToggle: false
 
   ShowReadingTime: true
@@ -60,7 +60,9 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Cannox's space
-    subtitle: "MSc in Artificial Intelligence @Aalto University (🇫🇮) and University of Trento (🇮🇹)\n\nFormer Formula Student Member [**@E-Agle TRT**](https://eagletrt.it) 🏎️"
+    subtitle: "MSc in Artificial Intelligence @Aalto University (🇫🇮) and University of Trento (🇮🇹)\n\n
+    Software Engineer Intern @[**Nokia**](https://www.nokia.com/) 🌐\n\n
+    Former Formula Student Member [**@E-Agle TRT**](https://eagletrt.it) 🏎️"
     imageUrl: /images/propic-rounded.png
     imageWidth: 120
     imageHeight: 120
@@ -93,7 +95,7 @@ params:
 
   analytics:
     google:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: "G-02FPKLW2QQ"
     bing:
       SiteVerificationTag: "XYZabc"
     yandex:

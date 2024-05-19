@@ -26,15 +26,26 @@ cover:
     hidden: true # only hide on current single page
 ---
 
-⚡️ [Fenice-EVO BMS LV](https://github.com/cannox227/fenice-bms-lv): main project during my Formula Student experience 
+## AI/Computer Vision related stuffs
 
-⚙️ [Step Motor Test Bench](https://github.com/cannox227/Step-Motor-Test-Bench): Measurement tool to extract maximum power and torque of a step motor (Bachelor's thesis)
+🎵 [**Taylor's Tune**](https://github.com/cannox227/Taylor-s-Tune): Mood-driven music recommendations tool that leverages the newest cutting-edge open source Large Language Models to provide the best Taylor's Swift songs according to the user needs. **Try it [here!!!](https://taylors-tune.streamlit.app/)**.
 
-☀️ [Solar Azimuth and eLevation Motorized lOcator (SALMO)](https://github.com/cannox227/Solar-Azimuth-and-eLevation-Motorized-lOcator): a custom PCB used for driving a tracking solar panel system, using GPS location and a MPPT (Maximum Power Point Tracking) algorithm to maximise the incident power
+📷 [**Multi‑sensor camera dewarping for basketball court view correction**](https://github.com/cannox227/camera-dewarping): Desktop app used to reduce artifacts resulting from the mixing of multiple video streams from three multi-sensor cameras in a video recording system within a sports center gymnasium. 
 
-🔊 [HiFi Watermark](https://github.com/cannox227/hifi-gan-watermark/tree/watermark): U‑Net based deep learning architecture for Watermark embedding and retrieval on HiFi‑GAN generated audio.
+🔊 [**HiFi Watermark**](https://github.com/cannox227/hifi-gan-watermark/tree/watermark): U‑Net based deep learning architecture for Watermark embedding and retrieval on HiFi‑GAN generated audio.
 
-🏃🏻‍♂️[Digital Health and Human Behavior project](https://github.com/cannox227/Digital-Health-and-Human-Behavior---Project-Course): Analysis of physical activity patterns using the Fitbit Fitness Tracker Dataset
+## Embedded Systems (Hardware+Firmware)
+
+⚡️ [**Fenice-EVO BMS LV**](https://github.com/cannox227/fenice-bms-lv): Low Voltage [*Battery Management System*](https://en.wikipedia.org/wiki/Battery_management_system) of our [*Formula Student*](https://en.wikipedia.org/wiki/Formula_Student) cars during Seasons 2021/2022 and 2022/2023. (*More info about the [team](https://eagletrt.it/)*)
+
+⚙️ [**Step Motor Test Bench**](https://github.com/cannox227/Step-Motor-Test-Bench): Measurement tool to extract maximum power and torque of a step motor (Bachelor's thesis)
+
+☀️ [**Solar Azimuth and eLevation Motorized lOcator (SALMO)**](https://github.com/cannox227/Solar-Azimuth-and-eLevation-Motorized-lOcator): Custom PCB used for driving a tracking solar panel system, using GPS location and a MPPT (Maximum Power Point Tracking) algorithm to maximise the incident power
+
+## Data science related stuffs
+🏃🏻‍♂️ [**Digital Health and Human Behavior project**](https://github.com/cannox227/Digital-Health-and-Human-Behavior---Project-Course): Analysis of physical activity patterns using the Fitbit Fitness Tracker Dataset
+
+😷 [**Susceptible-Infected disease spreading model**](https://github.com/cannox227/Complex-Networks-Project): SI compartmental [*model*](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology) implementation used to simulate a disease spreading given US flights dataset.
 
 ## Contact
 Feel free to write me a message on [Linkedin](https://www.linkedin.com/in/tommaso-canova/?originalSubdomain=it) or check out my [Github profile](https://github.com/cannox227).
