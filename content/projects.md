@@ -26,7 +26,7 @@ cover:
     hidden: true # only hide on current single page
 ---
 
-## AI/Computer Vision related stuffs
+## AI/Computer Vision related stuff
 
 🎵 [**Taylor's Tune**](https://github.com/cannox227/Taylor-s-Tune): Mood-driven music recommendations tool that leverages the newest cutting-edge open source Large Language Models to provide the best Taylor's Swift songs according to the user needs. **Try it [here!!!](https://taylors-tune.streamlit.app/)**.
 
@@ -42,7 +42,7 @@ cover:
 
 ☀️ [**Solar Azimuth and eLevation Motorized lOcator (SALMO)**](https://github.com/cannox227/Solar-Azimuth-and-eLevation-Motorized-lOcator): Custom PCB used for driving a tracking solar panel system, using GPS location and a MPPT (Maximum Power Point Tracking) algorithm to maximise the incident power
 
-## Data science related stuffs
+## Data science related stuff
 🏃🏻‍♂️ [**Digital Health and Human Behavior project**](https://github.com/cannox227/Digital-Health-and-Human-Behavior---Project-Course): Analysis of physical activity patterns using the Fitbit Fitness Tracker Dataset
 
 😷 [**Susceptible-Infected disease spreading model**](https://github.com/cannox227/Complex-Networks-Project): SI compartmental [*model*](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology) implementation used to simulate a disease spreading given US flights dataset.

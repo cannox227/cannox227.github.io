@@ -45,7 +45,7 @@ On this website I try to store my projects and thoughts (*probably the latter ar
 
 
 ## Things I'm doing right now
-🌐 Working in the CNS Advanced Technology & Incubator (ATI) as Software Engineer Intern @[Nokia](https://www.nokia.com/) \
+🌐 Working in the CNS Advanced Technology & Incubator (ATI) as AI Software Engineer Intern @[Nokia](https://www.nokia.com/) \
 😊 Enjoying [summer](https://en.ilmatieteenlaitos.fi/local-weather) in Finland \
 🎧 Maintaining [Taylor's Tune](https://github.com/cannox227/Taylor-s-Tune), try it [here!](https://taylors-tune.streamlit.app/) \
 🧖 Having sauna and swimming in the sea (*you can decide the order*) 
