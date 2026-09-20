@@ -21,7 +21,7 @@ params:
   keywords: [Blog, Portfolio, PaperMod]
   author: Cannox
   # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["/images/propic-rounded.png"]
   DateFormat: "January 2, 2006"
   defaultTheme: dark #auto, dark, light
   disableThemeToggle: false
@@ -46,14 +46,14 @@ params:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
     favicon: /images/favicon.ico
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    favicon16x16: /images/favicon-16x16.png
+    favicon32x32: /images/favicon-32x32.png
+    apple_touch_icon: /images/apple-touch-icon.png
+    safari_pinned_tab: /images/favicon.ico
 
   label:
     text: "Home"
-    icon: /apple-touch-icon.png
+    icon: /images/apple-touch-icon.png
     iconHeight: 35
 
   # profile-mode
