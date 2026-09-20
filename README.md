@@ -1,23 +1,54 @@
-# Instructions
-This is a personal website built with [Hugo](https://gohugo.io/) using [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme
+# Cannox's space
 
-1. Clone the repo
-  ````
-  git clone https://github.com/cannox227/cannox227.github.io
-  ````
-2. fetch the submodules 
-  ````
-  git submodule update -i -r
-  ````
-3. run hugo server
-  `````
-  hugo server
-  `````
+This is a personal website built with [Hugo](https://gohugo.io/) using the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme.
 
-Finally, the website will be visbile at `localhost:1313`
+## Installation
 
-# Theme update
-If you want to update the theme
-`````
+### macOS with Homebrew
+
+Install Hugo and Git:
+
+```bash
+brew install hugo git
+```
+
+Clone the repository and initialize the PaperMod theme submodule:
+
+```bash
+git clone https://github.com/cannox227/cannox227.github.io.git
+cd cannox227.github.io
+git submodule update --init --recursive
+```
+
+Verify that the site builds:
+
+```bash
+hugo --minify
+```
+
+Start the development server:
+
+```bash
+hugo server
+```
+
+Open [http://localhost:1313/](http://localhost:1313/) in your browser.
+
+## Existing checkout
+
+If the repository is already cloned:
+
+```bash
+cd cannox227.github.io
+git pull
+git submodule update --init --recursive
+hugo server
+```
+
+## Theme updates
+
+To update the PaperMod submodule:
+
+```bash
 git submodule update --remote --merge
-`````
+```

@@ -1,0 +1,139 @@
+.experience-page {
+  max-width: 900px;
+}
+
+.experience-intro {
+  color: var(--secondary);
+  margin-bottom: 3rem;
+}
+
+.experience-timeline {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+
+.experience-timeline::before {
+  background: var(--tertiary);
+  content: "";
+  left: 9px;
+  position: absolute;
+  top: 10px;
+  bottom: 10px;
+  width: 2px;
+}
+
+.experience-item {
+  padding-left: 42px;
+  position: relative;
+}
+
+.experience-item + .experience-item {
+  margin-top: 2rem;
+}
+
+.experience-marker {
+  background: var(--theme);
+  border: 3px solid var(--primary);
+  border-radius: 50%;
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 20px;
+  z-index: 1;
+}
+
+.experience-card {
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.25rem 1.5rem;
+  transition: border-color 0.2s ease, transform 0.2s ease;
+}
+
+.experience-card:hover {
+  border-color: var(--primary);
+  transform: translateX(4px);
+}
+
+.experience-dates,
+.experience-company,
+.experience-location {
+  margin: 0;
+}
+
+.experience-dates {
+  color: var(--secondary);
+  font-size: 0.9rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+.experience-card h2 {
+  margin: 0.35rem 0 0.15rem;
+}
+
+.experience-company {
+  color: var(--primary);
+  font-weight: 600;
+}
+
+.experience-location {
+  color: var(--secondary);
+  font-size: 0.9rem;
+  margin-top: 0.2rem;
+}
+
+.experience-description {
+  margin-top: 1rem;
+}
+
+.experience-description ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.experience-description li {
+  padding-left: 1rem;
+  position: relative;
+}
+
+.experience-description li::before {
+  color: var(--primary);
+  content: "•";
+  left: 0;
+  position: absolute;
+}
+
+.experience-description p:last-child,
+.experience-description ul:last-child {
+  margin-bottom: 0;
+}
+
+.experience-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 1rem;
+  margin-top: 1rem;
+}
+
+.experience-links a {
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+@media (max-width: 600px) {
+  .experience-item {
+    padding-left: 32px;
+  }
+
+  .experience-card {
+    padding: 1rem;
+  }
+
+  .experience-card:hover {
+    transform: none;
+  }
+}

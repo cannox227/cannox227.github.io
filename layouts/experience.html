@@ -1,0 +1,33 @@
+{{- define "main" }}
+<article class="post-single experience-page">
+  <header class="post-header">
+    {{ partial "breadcrumbs.html" . }}
+    <h1 class="post-title">{{ .Title }}</h1>
+    {{ with .Summary }}<div class="post-description">{{ . }}</div>{{ end }}
+  </header>
+
+  {{ with .Content }}
+  <div class="post-content experience-intro">{{ . }}</div>
+  {{ end }}
+
+  <ol class="experience-timeline" aria-label="Professional experience">
+    {{ range .Params.experience }}
+    <li class="experience-item">
+      <div class="experience-marker" aria-hidden="true"></div>
+      <div class="experience-card">
+        <p class="experience-dates">{{ .dates }}</p>
+        <h2>{{ .role }}</h2>
+        <p class="experience-company">{{ .company }}</p>
+        {{ with .location }}<p class="experience-location">{{ . }}</p>{{ end }}
+        <div class="experience-description">{{ .description | markdownify }}</div>
+        {{ with .links }}
+        <div class="experience-links">
+          {{ range . }}<a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .label }} ↗</a>{{ end }}
+        </div>
+        {{ end }}
+      </div>
+    </li>
+    {{ end }}
+  </ol>
+</article>
+{{- end }}

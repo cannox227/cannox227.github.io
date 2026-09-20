@@ -1,4 +1,4 @@
-baseURL: "https://cannox227.github.io/" #http://example.org/
+baseURL: "https://tcanova.com/" #http://example.org/
 title: Cannox's space 
 languageCode: en-us
 theme: "PaperMod"
@@ -60,9 +60,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Cannox's space
-    subtitle: "MSc in Artificial Intelligence @Aalto University (🇫🇮) and University of Trento (🇮🇹)\n\n
-    Software Engineer Intern @[**Nokia**](https://www.nokia.com/) 🌐\n\n
-    Former Formula Student Member [**@E-Agle TRT**](https://eagletrt.it) 🏎️"
+    subtitle: "Machine Learning Engineer @ [**Kuva Space**](https://kuvaspace.com/)️ 🛰️"
     imageUrl: /images/propic-rounded.png
     imageWidth: 120
     imageHeight: 120
@@ -74,8 +72,8 @@ params:
         url: tags
       - name: Projects
         url: projects
-      - name: CV
-        url: "assets/cv.pdf"
+      # - name: CV
+      #   url: "assets/cv.pdf"
 
   # home-info mode
   homeInfoParams:
@@ -140,10 +138,14 @@ menu:
       name: Projects
       url: projects/
       weight: 30
-    - identifier: cv
-      name: CV
-      url: "assets/cv.pdf"
-      weight: 40
+    - identifier: experience
+      name: Experience
+      url: experience/
+      weight: 35
+    # - identifier: cv
+    #   name: CV
+    #   url: "assets/cv.pdf"
+    #   weight: 40
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
