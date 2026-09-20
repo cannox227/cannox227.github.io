@@ -1,0 +1,24 @@
+{
+  "name": "cannox227.github.io",
+  "version": "1.0.0",
+  "description": "This is a personal website built with [Hugo](https://gohugo.io/) using the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cannox227/cannox227.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/cannox227/cannox227.github.io/issues"
+  },
+  "homepage": "https://github.com/cannox227/cannox227.github.io#readme",
+  "devDependencies": {
+    "wrangler": "^4.135.0"
+  }
+}
