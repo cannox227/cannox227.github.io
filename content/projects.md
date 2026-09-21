@@ -25,6 +25,10 @@ cover:
     hidden: true # only hide on current single page
 ---
 
+## Open source contributions
+
+🌾 [**Fields of The World - Baselines**](https://github.com/fieldsoftheworld/ftw-baselines): Baseline models and experiments for the Fields of The World dataset.
+
 ## AI/Computer Vision related stuff
 
 🎵 [**Taylor's Tune**](https://github.com/cannox227/Taylor-s-Tune): Mood-driven music recommendations tool that leverages the newest cutting-edge open source Large Language Models to provide the best Taylor's Swift songs according to the user needs. **Try it [here!!!](https://taylors-tune.streamlit.app/)**.
@@ -41,10 +45,17 @@ cover:
 
 ☀️ [**Solar Azimuth and eLevation Motorized lOcator (SALMO)**](https://github.com/cannox227/Solar-Azimuth-and-eLevation-Motorized-lOcator): Custom PCB used for driving a tracking solar panel system, using GPS location and a MPPT (Maximum Power Point Tracking) algorithm to maximise the incident power
 
+## Misc
+
+🎵 [**Spårvik**](https://github.com/cannox227/cad-stuff/blob/master/sparvik/README.md): Scandinavian-style vinyl and turntable cabinet generated with `build123d`.
+
 ## Data science related stuff
-🏃🏻‍♂️ [**Digital Health and Human Behavior project**](https://github.com/cannox227/Digital-Health-and-Human-Behavior---Project-Course): Analysis of physical activity patterns using the Fitbit Fitness Tracker Dataset
+
+🛰️ [**Tour de Paris from Space**](https://github.com/cannox227/Tour-de-Paris-from-space): Spatial analysis of the Team Rynkeby Tour de Paris route using satellite and reanalysis data.
 
 😷 [**Susceptible-Infected disease spreading model**](https://github.com/cannox227/Complex-Networks-Project): SI compartmental [*model*](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology) implementation used to simulate a disease spreading given US flights dataset.
+
+🏃🏻‍♂️ [**Digital Health and Human Behavior project**](https://github.com/cannox227/Digital-Health-and-Human-Behavior---Project-Course): Analysis of physical activity patterns using the Fitbit Fitness Tracker Dataset
 
 ## Contact
 Feel free to write me a message on [Linkedin](https://www.linkedin.com/in/tommaso-canova/?originalSubdomain=it) or check out my [Github profile](https://github.com/cannox227).
